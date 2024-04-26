@@ -1,0 +1,6 @@
+*.mat
+*.asv
+*.txt
+*.nii.gz
+neurospark/data
+
